@@ -125,3 +125,5 @@
 /Users/gavinsmith/Desktop/413_Final/backend/Entertainment/Entertainment/obj/Debug/net8.0/Entertainment.pdb
 /Users/gavinsmith/Desktop/413_Final/backend/Entertainment/Entertainment/obj/Debug/net8.0/Entertainment.genruntimeconfig.cache
 /Users/gavinsmith/Desktop/413_Final/backend/Entertainment/Entertainment/obj/Debug/net8.0/ref/Entertainment.dll
+/Users/gavinsmith/Desktop/413_Final/backend/Entertainment/Entertainment/bin/Debug/net8.0/EntertainmentAgencyExample.sqlite
+/Users/gavinsmith/Desktop/413_Final/backend/Entertainment/Entertainment/obj/Debug/net8.0/Entertainment.sourcelink.json

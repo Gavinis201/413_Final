@@ -1,6 +1,6 @@
 import { Entertainer } from '../types/entertainer';
 
-const API_BASE_URL = 'https://localhost:5000/api';
+const API_BASE_URL = 'https://is413final-backend-hthqfkgrejhsejdz.eastus-01.azurewebsites.net/api';
 
 export interface NewEntertainerForm {
   entStageName: string;
